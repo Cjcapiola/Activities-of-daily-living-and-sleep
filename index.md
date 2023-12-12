@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Activites of Daily Living and Sleep"
+permalink: https://cjcapiola.github.io/Activities-of-daily-living-and-sleep/
+---
+
 # How Do Activites of Daily Living Affect Sleep Quality?
 In this pages environment, a white paper detailing the results of my own personal analysis of daily activites and sleep is displayed. Each step of the statsticall process is outline and detailed. The data used in this study was pulled from a Garmin Instinct 2 smartwatch, an I have no brand affilication with GARMIN Inc. or any of its subsidaries. Based on the results of the investigation, a basic user interface has been created at the end of this environment where the reader can input some specific metrics based on their own activity levels and the program will provide a basic recomendation, based on the white paper results, on how sleep might be improved. It is important to note at this time that these specific recomendations are based off of my own data and may or may not be applicable to all individuals.
 
