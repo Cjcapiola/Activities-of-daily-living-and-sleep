@@ -249,6 +249,7 @@ In conclusion, the study underscores the importance of the intensity of physical
 
 
 ## Enter Your Activity Data
+
 <form id="activityForm">
   <label for="intensityMinutes">Intensity Minutes (per day):</label><br>
   <input type="number" id="intensityMinutes" name="intensityMinutes" required><br>
@@ -261,8 +262,8 @@ In conclusion, the study underscores the importance of the intensity of physical
 
 <div id="recommendations">
   <!-- Recommendations will be displayed here -->
-
 </div>
+
 <script>
   function getRecommendations() {
     var intensityMinutes = document.getElementById('intensityMinutes').value;
